@@ -3,3 +3,11 @@ env/
 .env
 .env/
 
+.parquet
+
+__pycache__
+
+*py[codz]
+*$py.class
+
+/home/bench/Documents/projects/datazoomcamp/pipeline/outut_12.parquet
