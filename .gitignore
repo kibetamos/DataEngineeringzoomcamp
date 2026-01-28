@@ -11,3 +11,6 @@ __pycache__
 *$py.class
 
 /home/bench/Documents/projects/datazoomcamp/pipeline/outut_12.parquet
+
+
+pipeline/ny_taxi_postgres_data

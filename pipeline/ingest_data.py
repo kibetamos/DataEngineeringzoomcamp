@@ -7,6 +7,7 @@ from sqlalchemy import create_engine
 from tqdm.auto import tqdm
 
 dtype = {
+    
     "VendorID": "Int64",
     "passenger_count": "Int64",
     "trip_distance": "float64",
